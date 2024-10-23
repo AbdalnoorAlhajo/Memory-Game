@@ -1,0 +1,8 @@
+# Ignore sensitive files
+.env
+config.json
+
+# Ignore build files and logs
+*.log
+**/bin/
+**/obj/
