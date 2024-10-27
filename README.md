@@ -7,14 +7,6 @@ With each round, the positions of the cards are randomized, ensuring a unique ch
 
 ---
 
-## Features
-- **Interactive Gameplay**: Players select two cards each turn, aiming to find matching pairs.
-- **Matching Mechanism**: When two selected cards match, they remain flipped to reveal their front side. If they don't match, they flip back.
-- **Randomization**: Each game run provides a fresh experience by randomizing card positions.
-- **User-Friendly Interface**: Simple design for a smooth gameplay experience.
-
----
-
 ## Technologies Used
 - **Programming Languages**: C#
 - **Framework**: .NET Framework
